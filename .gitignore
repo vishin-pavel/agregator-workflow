@@ -1,0 +1,4 @@
+.idea
+volumes/agregator-mysql/*
+source/*
+!source/.git
